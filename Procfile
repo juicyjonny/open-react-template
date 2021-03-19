@@ -1,2 +1,2 @@
 web: node src/App.js
-web: npm start
+web: npm run build
